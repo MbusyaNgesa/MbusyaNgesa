@@ -4,12 +4,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Cookito - AI-powered Recipe Web App**  
 - 🌱 I’m learning **Next.js and advanced MERN stack techniques**  
 - 🎓 Studied **Software Development at GOMYCODE**
 - 🎓Graduate with honours **Information Technology KCA University, Nairobi**
 - 💬 Ask me about **React, Node.js, Express, and MongoDB**  
-- ⚡ Fun fact: I love creating apps that solve real-world problems!  
+- ⚡ I love creating apps that solve real-world problems!  
 
 ---
 
