@@ -42,7 +42,6 @@
 ---
 
 ### 🚀 Featured Projects
-- [**Cookito**](https://github.com/MbusyaNgesa/cookito) - AI-powered recipe app with ingredient-based search.  
 - [**Eventnami**](https://github.com/MbusyaNgesa/eventnami) - Event discovery app with ticketing system and genre-based filtering.  
 - [**Cashwrap**](https://github.com/MbusyaNgesa/CashWrap) - Budget planner with expense tracking and charts.  
 
